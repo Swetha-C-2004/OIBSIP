@@ -14,7 +14,8 @@ h1{
     top:100px;
     left:200px;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
-}
+    background: linear-gradient(45deg, #f06, #f90);
+   }
 h3{
     position:absolute;
     left:130px;
