@@ -11,8 +11,33 @@
 h1{
     position: absolute;
     transform: translate(-50%, -50%);
-    top:70px;
+    top:100px;
     left:200px;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
-
+}
+h3{
+    position:absolute;
+    left:130px;
+    top:250px;
+    font:20px cursive;
+    color:chocolate
+}
+.pizza1{
+    position: absolute;
+   width:100px;
+   left: 370px;
+   top:170px;
+}
+.pizza2{
+    position: absolute;
+   width:100px;
+   left: 50px;
+   top:450px;
+}
+.chicken{
+    position:absolute;
+    left:170px;
+    top:500px;
+    font:20px cursive;
+    color:chocolate
 }
